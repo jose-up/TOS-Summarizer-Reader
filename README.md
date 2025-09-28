@@ -6,4 +6,4 @@ This project started when I bought a Nintendo Switch 2 back on launch day and sa
 
 There's no realisitc safety concern that they're protecting people from. It's just another way to crack down on user access. It's how these companies will exploit people. When it comes to devices with intricate software, companies will find ways to do this as well. With this web app, my goal is to allow the user to be aware, which will let consumers know exactly what they're getting into without having to read 30 page documents and analyze intricate legal jargon.
 
-### [TUTORIAL USE CASE IS WIP]
+### [TUTORIAL IS WIP]
