@@ -1,4 +1,7 @@
-# Terms of Service Summarizer
-With every product comes a very length Terms of Service and Privacy Policy that details everything that you agree to by using the product. While it’s necessary to have all of this information for legal reasons, it also creates an issue where people agree to something they’re not entirely ok with. To solve this, we will have a summarizer that lists out the key points of the Terms of Service model for each important section provided.
+# The Document Privacy Analyzer!
+## Associated with the BinaryHeart organization
+This project started when I bought a Nintendo Switch 2 back on launch day and saw how Nintendo decided that users can't modify hardware for supposed "privacy concerns." This means that in a user were to find a back door where they modified the system and Nintendo ends up becoming suspicious of this device, they could just shut it off, causing you to lose your hard earned $450. However, they didn't publicly state this, as well as the many ways they made third-party hardware unusable in order to get more money from the consumer for their more expensive propreitary hardware.
 
-This project is a web app that reads, analyzes, and summarizes online Terms of Service and Privacy Policies using an AI model (Google Studio API or similar). The tool generates a 3-sentence TL;DR and assigns a basic risk score, helping users quickly identify red flags before accepting agreements they would otherwise ignore.
+There's no realisitc safety concern that they're protecting people from. It's just another way to crack down on user access. It's how these companies will exploit people. When it comes to devices with intricate software, companies will find ways to do this as well. With this web app, my goal is to allow the user to be aware, which will let consumers know exactly what they're getting into without having to read 30 page documents and analyze intricate legal jargon.
+
+### [TUTORIAL USE CASE IS WIP]
